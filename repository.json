@@ -1,0 +1,6 @@
+plugins = [
+    {
+	name = "test"
+	repository = "https://github.com/fschrofner/glassdoor-plugin-repository.git"
+    }
+]
